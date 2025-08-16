@@ -1,4 +1,6 @@
+
 import { Location } from '../types/Location';
+import mamallapuramImg from '../download (1).jpeg';
 
 export const artLocations: Location[] = [
   {
@@ -44,7 +46,7 @@ export const artLocations: Location[] = [
       'Rashtrakuta court sculptors',
       'Unknown master craftsmen'
     ],
-    imageUrl: 'https://images.pexels.com/photos/8349886/pexels-photo-8349886.jpeg',
+    imageUrl: 'src/download.jpeg',
     established: '6th Century CE'
   },
   {
@@ -136,7 +138,7 @@ export const artLocations: Location[] = [
       'Pallava court sculptors',
       'Master craftsmen of Kanchipuram school'
     ],
-    imageUrl: 'https://images.pexels.com/photos/11319755/pexels-photo-11319755.jpeg',
+  imageUrl: mamallapuramImg,
     established: '630 CE'
   },
   {
